@@ -7,7 +7,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import cn.edu.cuit.ssm.service.UserService;
-
+/**
+ * 
+ *  南阳德刚版权所有http://www.guodexian.com<br>
+ *
+ *
+ * 2019年7月10日下午6:01:47<br>
+ * 类说明:登陆相关
+ */
 @Controller
 public class LoginController {
 	@Autowired
