@@ -4,8 +4,10 @@ import java.io.Serializable;
 
 /**
  * 
- * ��ʵ�־ͱ�����
+ * 南阳德刚版权所有<br>
+ * 个人主页http://www.guodexian.com<br>
  *
+ * 说明:注意要实现序列化接口让dubbo使用
  */
 public class Goods implements Serializable {
 

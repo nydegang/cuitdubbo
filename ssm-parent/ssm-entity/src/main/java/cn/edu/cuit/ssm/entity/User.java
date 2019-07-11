@@ -1,7 +1,13 @@
 package cn.edu.cuit.ssm.entity;
 
 import java.io.Serializable;
-
+/**
+ * 
+ * 南阳德刚版权所有<br>
+ * 个人主页http://www.guodexian.com<br>
+ *
+ * 说明:注意要实现序列化接口让dubbo使用
+ */
 public class User implements Serializable{
 	private static final long serialVersionUID = 1L;
 	private int id;
