@@ -140,5 +140,6 @@
 		<module>ssm-api</module>
 		<module>ssm-service</module>
 		<module>ssm-controller</module>
+		<module>ssm-common</module>
 	</modules>
 </project>
